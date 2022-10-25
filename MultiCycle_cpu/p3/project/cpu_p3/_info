@@ -1,0 +1,459 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dD:/cpu/MultiCycle_cpu/p2/project
+vALU
+Z0 VDg1SIo80bB@j0V0VzS_@n1
+r1
+!s85 0
+31
+!i10b 1
+!s100 1fcYEK_NTC^AVELz87cCK3
+IXnJG;LO5n5?EPkj87A4:i2
+Z1 dD:/cpu/MultiCycle_cpu/p3/project
+w1656063674
+8D:/cpu/MultiCycle_cpu/p3/backup/2022_0627_0826/ALU.v
+FD:/cpu/MultiCycle_cpu/p3/backup/2022_0627_0826/ALU.v
+L0 1
+Z2 OL;L;10.4;61
+!s108 1656991938.244000
+!s107 D:/cpu/MultiCycle_cpu/p3/backup/2022_0627_0826/ALU.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/cpu/MultiCycle_cpu/p3/backup/2022_0627_0826/ALU.v|
+!i113 0
+Z3 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+n@a@l@u
+vbridge
+R0
+r1
+!s85 0
+31
+!i10b 1
+!s100 gT059njJFHRi^V@TT0bCf0
+ILmY`ZRYWE>RjIKzZ82h6?1
+R1
+w1656471423
+8D:/cpu/MultiCycle_cpu/p3/backup/2022_0627_0826/brige.v
+FD:/cpu/MultiCycle_cpu/p3/backup/2022_0627_0826/brige.v
+L0 1
+R2
+!s108 1656991938.343000
+!s107 D:/cpu/MultiCycle_cpu/p3/backup/2022_0627_0826/brige.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/cpu/MultiCycle_cpu/p3/backup/2022_0627_0826/brige.v|
+!i113 0
+R3
+vController_Mul
+R0
+r1
+!s85 0
+31
+!i10b 1
+!s100 NVc<dPPL:^VJ5XJCY6EgU2
+IAlE^M08AT:GXL<^:XlIdU0
+R1
+w1656918548
+8D:/cpu/MultiCycle_cpu/p3/backup/2022_0627_0826/Controller.v
+FD:/cpu/MultiCycle_cpu/p3/backup/2022_0627_0826/Controller.v
+L0 3
+R2
+!s108 1656991938.441000
+!s107 D:\cpu\MultiCycle_cpu\p3\backup\2022_0627_0826\instructions_define.vh|D:/cpu/MultiCycle_cpu/p3/backup/2022_0627_0826/Controller.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/cpu/MultiCycle_cpu/p3/backup/2022_0627_0826/Controller.v|
+!i113 0
+R3
+n@controller_@mul
+vCP0
+R0
+r1
+!s85 0
+31
+!i10b 1
+!s100 8OgNVzlzNY0LY<3QlDE?A2
+IOWI0deIlS_@dM4jQm[?G^3
+R1
+w1656472069
+8D:/cpu/MultiCycle_cpu/p3/backup/2022_0627_0826/CP0.v
+FD:/cpu/MultiCycle_cpu/p3/backup/2022_0627_0826/CP0.v
+L0 1
+R2
+!s108 1656991938.542000
+!s107 D:/cpu/MultiCycle_cpu/p3/backup/2022_0627_0826/CP0.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/cpu/MultiCycle_cpu/p3/backup/2022_0627_0826/CP0.v|
+!i113 0
+R3
+n@c@p0
+vdm
+R0
+r1
+!s85 0
+31
+!i10b 1
+!s100 NS=zF2L<M[n_gmd0MLOZo3
+Ijj[MRBBTlHhH8beEATn]e1
+R1
+w1656926884
+8D:/cpu/MultiCycle_cpu/p3/backup/2022_0627_0826/dm.v
+FD:/cpu/MultiCycle_cpu/p3/backup/2022_0627_0826/dm.v
+L0 1
+R2
+!s108 1656991938.639000
+!s107 D:/cpu/MultiCycle_cpu/p3/backup/2022_0627_0826/dm.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/cpu/MultiCycle_cpu/p3/backup/2022_0627_0826/dm.v|
+!i113 0
+R3
+vExtender
+R0
+r1
+!s85 0
+31
+!i10b 1
+!s100 ?7h1=6bTG691CUJQQz[an0
+IWJ8g]63h[Z?JJ_GaKz;5j2
+R1
+w1655819890
+8D:/cpu/MultiCycle_cpu/p3/backup/2022_0627_0826/Extender.v
+FD:/cpu/MultiCycle_cpu/p3/backup/2022_0627_0826/Extender.v
+L0 1
+R2
+!s108 1656991938.737000
+!s107 D:/cpu/MultiCycle_cpu/p3/backup/2022_0627_0826/Extender.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/cpu/MultiCycle_cpu/p3/backup/2022_0627_0826/Extender.v|
+!i113 0
+R3
+n@extender
+vfilter
+R0
+r1
+!s85 0
+31
+!i10b 1
+!s100 bRKMBcFYK5o3MVGTG4]kn2
+IV9HS8l6>g0EROZ_aRm9gh2
+R1
+w1656128239
+8D:/cpu/MultiCycle_cpu/p3/backup/2022_0627_0826/filter.v
+FD:/cpu/MultiCycle_cpu/p3/backup/2022_0627_0826/filter.v
+L0 1
+R2
+!s108 1656991938.835000
+!s107 D:/cpu/MultiCycle_cpu/p3/backup/2022_0627_0826/filter.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/cpu/MultiCycle_cpu/p3/backup/2022_0627_0826/filter.v|
+!i113 0
+R3
+vim
+R0
+r1
+!s85 0
+31
+!i10b 1
+!s100 ElBEKo^MgQzKT7HDG>HR<1
+I^IYQY;0X7dTZCMLTOTXQ72
+R1
+w1656233235
+8D:/cpu/MultiCycle_cpu/p3/backup/2022_0627_0826/im.v
+FD:/cpu/MultiCycle_cpu/p3/backup/2022_0627_0826/im.v
+L0 1
+R2
+!s108 1656991938.933000
+!s107 D:/cpu/MultiCycle_cpu/p3/backup/2022_0627_0826/im.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/cpu/MultiCycle_cpu/p3/backup/2022_0627_0826/im.v|
+!i113 0
+R3
+vinput_equip
+R0
+r1
+!s85 0
+31
+!i10b 1
+!s100 nSQHn5Wh4YmHQfDJNhX[53
+IdjUHf;F^K[Y=3F?]SF]YU0
+R1
+w1656051486
+8D:/cpu/MultiCycle_cpu/p3/backup/2022_0627_0826/input_equip.v
+FD:/cpu/MultiCycle_cpu/p3/backup/2022_0627_0826/input_equip.v
+L0 1
+R2
+!s108 1656991939.032000
+!s107 D:/cpu/MultiCycle_cpu/p3/backup/2022_0627_0826/input_equip.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/cpu/MultiCycle_cpu/p3/backup/2022_0627_0826/input_equip.v|
+!i113 0
+R3
+vIR
+R0
+r1
+!s85 0
+31
+!i10b 1
+!s100 @PlP6aZ?6`fc>Se:_N[GS3
+IT?Ia;W5il>HYoLX`i6feF2
+R1
+w1655901561
+8D:/cpu/MultiCycle_cpu/p3/backup/2022_0627_0826/IR.v
+FD:/cpu/MultiCycle_cpu/p3/backup/2022_0627_0826/IR.v
+L0 1
+R2
+!s108 1656991939.136000
+!s107 D:/cpu/MultiCycle_cpu/p3/backup/2022_0627_0826/IR.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/cpu/MultiCycle_cpu/p3/backup/2022_0627_0826/IR.v|
+!i113 0
+R3
+n@i@r
+vmach
+R0
+r1
+!s85 0
+31
+!i10b 1
+!s100 4ao]O0JidEL83Z6U1Zc3Y3
+IiPloLEdXXC92f1V61;EPi3
+R1
+w1656246834
+8D:/cpu/MultiCycle_cpu/p3/backup/2022_0627_0826/mach.v
+FD:/cpu/MultiCycle_cpu/p3/backup/2022_0627_0826/mach.v
+L0 1
+R2
+!s108 1656991939.236000
+!s107 D:/cpu/MultiCycle_cpu/p3/backup/2022_0627_0826/mach.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/cpu/MultiCycle_cpu/p3/backup/2022_0627_0826/mach.v|
+!i113 0
+R3
+vmips
+R0
+r1
+!s85 0
+31
+!i10b 1
+!s100 ]<:OeGiADY;373neHkbe>1
+IUz`YNgjYV8E]9MJ2HC1gz2
+R1
+w1656927724
+8D:/cpu/MultiCycle_cpu/p3/backup/2022_0627_0826/mips.v
+FD:/cpu/MultiCycle_cpu/p3/backup/2022_0627_0826/mips.v
+L0 1
+R2
+!s108 1656991939.333000
+!s107 D:/cpu/MultiCycle_cpu/p3/backup/2022_0627_0826/mips.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/cpu/MultiCycle_cpu/p3/backup/2022_0627_0826/mips.v|
+!i113 0
+R3
+vnPc
+R0
+r1
+!s85 0
+31
+!i10b 1
+!s100 EO7ngN:?EfhMJAB`63;Xc0
+Ij^CiY[BZL1;QeokB:D6eM2
+R1
+w1656285690
+8D:/cpu/MultiCycle_cpu/p3/backup/2022_0627_0826/nPc.v
+FD:/cpu/MultiCycle_cpu/p3/backup/2022_0627_0826/nPc.v
+L0 1
+R2
+!s108 1656991939.433000
+!s107 D:/cpu/MultiCycle_cpu/p3/backup/2022_0627_0826/nPc.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/cpu/MultiCycle_cpu/p3/backup/2022_0627_0826/nPc.v|
+!i113 0
+R3
+nn@pc
+voutput_equip
+R0
+r1
+!s85 0
+31
+!i10b 1
+!s100 LF3UG1ZaG6R65KLeAc^Q>0
+Im`;obaYjbioeVB>E:bzn^1
+R1
+w1656469577
+8D:/cpu/MultiCycle_cpu/p3/backup/2022_0627_0826/output_equip.v
+FD:/cpu/MultiCycle_cpu/p3/backup/2022_0627_0826/output_equip.v
+L0 1
+R2
+!s108 1656991939.530000
+!s107 D:/cpu/MultiCycle_cpu/p3/backup/2022_0627_0826/output_equip.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/cpu/MultiCycle_cpu/p3/backup/2022_0627_0826/output_equip.v|
+!i113 0
+R3
+vPc
+R0
+r1
+!s85 0
+31
+!i10b 1
+!s100 ^0M@]V6n4dJoQRbHlU;6J0
+I1m7n>8oFG_4AbnN7I_J3A1
+R1
+w1655895853
+8D:/cpu/MultiCycle_cpu/p3/backup/2022_0627_0826/Pc.v
+FD:/cpu/MultiCycle_cpu/p3/backup/2022_0627_0826/Pc.v
+L0 1
+R2
+!s108 1656991939.628000
+!s107 D:/cpu/MultiCycle_cpu/p3/backup/2022_0627_0826/Pc.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/cpu/MultiCycle_cpu/p3/backup/2022_0627_0826/Pc.v|
+!i113 0
+R3
+n@pc
+vRegFile
+R0
+r1
+!s85 0
+31
+!i10b 1
+!s100 MW?[ji6k]mQ8]dA0_V=S=1
+ICZB`BPl@QN[YMRV6RM3ze3
+R1
+w1656216666
+8D:/cpu/MultiCycle_cpu/p3/backup/2022_0627_0826/RegFile.v
+FD:/cpu/MultiCycle_cpu/p3/backup/2022_0627_0826/RegFile.v
+L0 1
+R2
+!s108 1656991939.725000
+!s107 D:/cpu/MultiCycle_cpu/p3/backup/2022_0627_0826/RegFile.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/cpu/MultiCycle_cpu/p3/backup/2022_0627_0826/RegFile.v|
+!i113 0
+R3
+n@reg@file
+vsb
+R0
+r1
+!s85 0
+31
+!i10b 1
+!s100 Fc<GaJ?h9<QCI8<M>gN2B3
+I>hD9:XOhYIX7DIAm6]4gG3
+R1
+w1656927258
+8D:/cpu/MultiCycle_cpu/p3/backup/2022_0627_0826/sb.v
+FD:/cpu/MultiCycle_cpu/p3/backup/2022_0627_0826/sb.v
+L0 1
+R2
+!s108 1656991939.823000
+!s107 D:/cpu/MultiCycle_cpu/p3/backup/2022_0627_0826/sb.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/cpu/MultiCycle_cpu/p3/backup/2022_0627_0826/sb.v|
+!i113 0
+R3
+vtb_mach
+R0
+r1
+!s85 0
+31
+!i10b 1
+!s100 o>`5R5HmYk1TlAQPHQUX11
+IYc2`aniRE9Bz3QB;O@UlF3
+R1
+w1656465255
+8D:/cpu/MultiCycle_cpu/p3/backup/2022_0627_0826/tb_mach.v
+FD:/cpu/MultiCycle_cpu/p3/backup/2022_0627_0826/tb_mach.v
+L0 3
+R2
+!s108 1656991939.922000
+!s107 D:/cpu/MultiCycle_cpu/p3/backup/2022_0627_0826/tb_mach.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/cpu/MultiCycle_cpu/p3/backup/2022_0627_0826/tb_mach.v|
+!i113 0
+R3
+vTemp_Reg_A
+R0
+r1
+!s85 0
+31
+!i10b 1
+!s100 ?`c0m4^0kB5fTIUCc1Oge2
+IIkcZ9W`K_PeHOC0fB`Nna0
+R1
+w1656073139
+8D:/cpu/MultiCycle_cpu/p3/backup/2022_0627_0826/Temp_Reg_A.v
+FD:/cpu/MultiCycle_cpu/p3/backup/2022_0627_0826/Temp_Reg_A.v
+L0 2
+R2
+!s108 1656991940.032000
+!s107 D:/cpu/MultiCycle_cpu/p3/backup/2022_0627_0826/Temp_Reg_A.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/cpu/MultiCycle_cpu/p3/backup/2022_0627_0826/Temp_Reg_A.v|
+!i113 0
+R3
+n@temp_@reg_@a
+vTemp_Reg_ALU
+R0
+r1
+!s85 0
+31
+!i10b 1
+!s100 BMml_O01YDIMnMMKe:R530
+I7[fc00LaPn^[<L2D2?hZ61
+R1
+w1656073161
+8D:/cpu/MultiCycle_cpu/p3/backup/2022_0627_0826/Temp_Reg_ALU.v
+FD:/cpu/MultiCycle_cpu/p3/backup/2022_0627_0826/Temp_Reg_ALU.v
+L0 2
+R2
+!s108 1656991940.130000
+!s107 D:/cpu/MultiCycle_cpu/p3/backup/2022_0627_0826/Temp_Reg_ALU.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/cpu/MultiCycle_cpu/p3/backup/2022_0627_0826/Temp_Reg_ALU.v|
+!i113 0
+R3
+n@temp_@reg_@a@l@u
+vTemp_Reg_B
+R0
+r1
+!s85 0
+31
+!i10b 1
+!s100 ??blCaIS2_9I8HN`18I5z0
+IPKh<><Ceif<oJPR3Pm4F81
+R1
+w1656073149
+8D:/cpu/MultiCycle_cpu/p3/backup/2022_0627_0826/Temp_Reg_B.v
+FD:/cpu/MultiCycle_cpu/p3/backup/2022_0627_0826/Temp_Reg_B.v
+L0 2
+R2
+!s108 1656991940.230000
+!s107 D:/cpu/MultiCycle_cpu/p3/backup/2022_0627_0826/Temp_Reg_B.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/cpu/MultiCycle_cpu/p3/backup/2022_0627_0826/Temp_Reg_B.v|
+!i113 0
+R3
+n@temp_@reg_@b
+vTemp_Reg_DM
+R0
+r1
+!s85 0
+31
+!i10b 1
+!s100 Gnc?DzOBnbZ8fecRAfnCf3
+IL]Y3Fi[l:NIz1j<3P4>OP0
+R1
+w1656927862
+8D:/cpu/MultiCycle_cpu/p3/backup/2022_0627_0826/Temp_Reg_DM.v
+FD:/cpu/MultiCycle_cpu/p3/backup/2022_0627_0826/Temp_Reg_DM.v
+L0 2
+R2
+!s108 1656991940.328000
+!s107 D:/cpu/MultiCycle_cpu/p3/backup/2022_0627_0826/Temp_Reg_DM.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/cpu/MultiCycle_cpu/p3/backup/2022_0627_0826/Temp_Reg_DM.v|
+!i113 0
+R3
+n@temp_@reg_@d@m
+vtimer
+R0
+r1
+!s85 0
+31
+!i10b 1
+!s100 5UDEB^6=9DN4Rl7R>hgO>2
+I<NLiHRDeJD7dY37>:>PE63
+R1
+w1656471687
+8D:/cpu/MultiCycle_cpu/p3/backup/2022_0627_0826/timer.v
+FD:/cpu/MultiCycle_cpu/p3/backup/2022_0627_0826/timer.v
+L0 1
+R2
+!s108 1656991938.145000
+!s107 D:/cpu/MultiCycle_cpu/p3/backup/2022_0627_0826/timer.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/cpu/MultiCycle_cpu/p3/backup/2022_0627_0826/timer.v|
+!i113 0
+R3

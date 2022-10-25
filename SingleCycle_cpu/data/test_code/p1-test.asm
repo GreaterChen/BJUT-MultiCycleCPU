@@ -1,0 +1,4 @@
+lui $1,0x7fff
+ori $1,0xffff
+addi $3,$1,0x5
+ori $20,1

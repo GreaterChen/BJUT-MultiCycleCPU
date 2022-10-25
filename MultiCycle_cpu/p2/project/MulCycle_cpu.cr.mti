@@ -1,0 +1,113 @@
+D:/cpu/MultiCycle_cpu/p2/code/Controller.v {1 {vlog -work work_p2 -vopt -stats=none D:/cpu/MultiCycle_cpu/p2/code/Controller.v
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module Controller_Mul
+
+Top level modules:
+	Controller_Mul
+
+} {} {}} D:/cpu/MultiCycle_cpu/p2/code/Temp_Reg_B.v {1 {vlog -work work -vopt -stats=none D:/cpu/MultiCycle_cpu/p2/code/Temp_Reg_B.v
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module Temp_Reg_B
+
+Top level modules:
+	Temp_Reg_B
+
+} {} {}} D:/cpu/MultiCycle_cpu/p2/code/Temp_Reg_ALU.v {1 {vlog -work work -vopt -stats=none D:/cpu/MultiCycle_cpu/p2/code/Temp_Reg_ALU.v
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module Temp_Reg_ALU
+
+Top level modules:
+	Temp_Reg_ALU
+
+} {} {}} D:/cpu/MultiCycle_cpu/p2/code/RegFile.v {1 {vlog -work work_p2 -vopt -stats=none D:/cpu/MultiCycle_cpu/p2/code/RegFile.v
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module RegFile
+
+Top level modules:
+	RegFile
+
+} {} {}} D:/cpu/MultiCycle_cpu/p2/code/sb.v {1 {vlog -work work_p2 -vopt -stats=none D:/cpu/MultiCycle_cpu/p2/code/sb.v
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module sb
+
+Top level modules:
+	sb
+
+} {} {}} D:/cpu/MultiCycle_cpu/p2/code/im.v {1 {vlog -work work_p2 -vopt -stats=none D:/cpu/MultiCycle_cpu/p2/code/im.v
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module im
+
+Top level modules:
+	im
+
+} {} {}} D:/cpu/MultiCycle_cpu/p2/code/Extender.v {1 {vlog -work work_p2 -vopt -stats=none D:/cpu/MultiCycle_cpu/p2/code/Extender.v
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module Extender
+
+Top level modules:
+	Extender
+
+} {} {}} D:/cpu/MultiCycle_cpu/p2/code/mips.v {1 {vlog -work work_p2 -vopt -stats=none D:/cpu/MultiCycle_cpu/p2/code/mips.v
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module mips
+
+Top level modules:
+	mips
+
+} {} {}} D:/cpu/MultiCycle_cpu/p2/code/nPc.v {1 {vlog -work work_p2 -vopt -stats=none D:/cpu/MultiCycle_cpu/p2/code/nPc.v
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module nPc
+
+Top level modules:
+	nPc
+
+} {} {}} D:/cpu/MultiCycle_cpu/p2/code/dm.v {1 {vlog -work work_p2 -vopt -stats=none D:/cpu/MultiCycle_cpu/p2/code/dm.v
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module dm
+
+Top level modules:
+	dm
+
+} {} {}} D:/cpu/MultiCycle_cpu/p2/code/ALU.v {1 {vlog -work work_p2 -vopt -stats=none D:/cpu/MultiCycle_cpu/p2/code/ALU.v
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module ALU
+
+Top level modules:
+	ALU
+
+} {} {}} D:/cpu/MultiCycle_cpu/p2/code/top_sim.v {1 {vlog -work work_p2 -vopt -stats=none D:/cpu/MultiCycle_cpu/p2/code/top_sim.v
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module tb_MulCycle_cpu
+
+Top level modules:
+	tb_MulCycle_cpu
+
+} {} {}} D:/cpu/MultiCycle_cpu/p2/code/Temp_Reg_A.v {1 {vlog -work work -vopt -stats=none D:/cpu/MultiCycle_cpu/p2/code/Temp_Reg_A.v
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module Temp_Reg_A
+
+Top level modules:
+	Temp_Reg_A
+
+} {} {}} D:/cpu/MultiCycle_cpu/p2/code/Temp_Reg_DM.v {1 {vlog -work work -vopt -stats=none D:/cpu/MultiCycle_cpu/p2/code/Temp_Reg_DM.v
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module Temp_Reg_DM
+
+Top level modules:
+	Temp_Reg_DM
+
+} {} {}} D:/cpu/MultiCycle_cpu/p2/code/IR.v {1 {vlog -work work_p2 -vopt -stats=none D:/cpu/MultiCycle_cpu/p2/code/IR.v
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module IR
+
+Top level modules:
+	IR
+
+} {} {}} D:/cpu/MultiCycle_cpu/p2/code/Pc.v {1 {vlog -work work_p2 -vopt -stats=none D:/cpu/MultiCycle_cpu/p2/code/Pc.v
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module Pc
+
+Top level modules:
+	Pc
+
+} {} {}}

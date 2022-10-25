@@ -1,0 +1,30 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dD:/cpu/MultiCycle_cpu/p2/project
+vsb
+!s110 1655901149
+!i10b 1
+!s100 mE<NLQA:]W<zjJ4jjN7oQ1
+IG@Q<WfeBUi?GSWbe0ce1h0
+VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1655899690
+8D:/cpu/MultiCycle_cpu/p2/code/sb.v
+FD:/cpu/MultiCycle_cpu/p2/code/sb.v
+L0 1
+OL;L;10.4;61
+r1
+!s85 0
+31
+!s108 1655901149.532000
+!s107 D:/cpu/MultiCycle_cpu/p2/code/sb.v|
+!s90 -reportprogress|300|-work|work_ref|-vopt|-stats=none|D:/cpu/MultiCycle_cpu/p2/code/sb.v|
+!i113 0
+o-work work_ref -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact

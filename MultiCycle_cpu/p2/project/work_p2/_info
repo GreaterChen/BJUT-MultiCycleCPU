@@ -1,0 +1,410 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dD:/Modelsim/Mmodelsim/examples
+vALU
+Z0 VDg1SIo80bB@j0V0VzS_@n1
+r1
+!s85 0
+31
+!i10b 1
+!s100 1fcYEK_NTC^AVELz87cCK3
+IJ4z[oUJI_hnCe<G2zFk8C3
+Z1 dD:/cpu/MultiCycle_cpu/p2/project
+w1655819793
+8D:/cpu/MultiCycle_cpu/p2/code/ALU.v
+FD:/cpu/MultiCycle_cpu/p2/code/ALU.v
+L0 1
+Z2 OL;L;10.4;61
+!s108 1656151115.929000
+!s107 D:/cpu/MultiCycle_cpu/p2/code/ALU.v|
+!s90 -reportprogress|300|-work|work_p2|-vopt|-stats=none|D:/cpu/MultiCycle_cpu/p2/code/ALU.v|
+!i113 0
+Z3 o-work work_p2 -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+n@a@l@u
+vController_Mul
+R0
+r1
+!s85 0
+31
+!i10b 1
+!s100 0GU^Aaz<^F>H0bWQ^:;i]3
+IjDhjIJ`>9a0kBGhBe6m0I3
+R1
+w1656150979
+8D:/cpu/MultiCycle_cpu/p2/code/Controller.v
+FD:/cpu/MultiCycle_cpu/p2/code/Controller.v
+L0 3
+R2
+!s108 1656151116.026000
+!s107 D:\cpu\MultiCycle_cpu\p2\code\instructions_define.vh|D:/cpu/MultiCycle_cpu/p2/code/Controller.v|
+!s90 -reportprogress|300|-work|work_p2|-vopt|-stats=none|D:/cpu/MultiCycle_cpu/p2/code/Controller.v|
+!i113 0
+R3
+n@controller_@mul
+vData_delay_A
+Z4 !s110 1655910897
+!i10b 1
+!s100 Y_Em0]`?m2JL3Fl;F>ia=3
+If1Ll?2bU99Hg3?9_[VZD71
+R0
+R1
+w1655814288
+8D:/cpu/MultiCycle_cpu/p2/code/Data_delay_A.v
+FD:/cpu/MultiCycle_cpu/p2/code/Data_delay_A.v
+L0 2
+R2
+r1
+!s85 0
+31
+!s108 1655910897.157000
+!s107 D:/cpu/MultiCycle_cpu/p2/code/Data_delay_A.v|
+!s90 -reportprogress|300|-work|work_p2|-vopt|-stats=none|D:/cpu/MultiCycle_cpu/p2/code/Data_delay_A.v|
+!i113 0
+R3
+n@data_delay_@a
+vData_delay_ALU
+R4
+!i10b 1
+!s100 U8J5IV>bO?6Z`eVa7=`2U2
+I9`cCIfM;2O4;fD8fzX3]42
+R0
+R1
+w1655819984
+8D:/cpu/MultiCycle_cpu/p2/code/Data_delay_ALU.v
+FD:/cpu/MultiCycle_cpu/p2/code/Data_delay_ALU.v
+L0 2
+R2
+r1
+!s85 0
+31
+!s108 1655910897.254000
+!s107 D:/cpu/MultiCycle_cpu/p2/code/Data_delay_ALU.v|
+!s90 -reportprogress|300|-work|work_p2|-vopt|-stats=none|D:/cpu/MultiCycle_cpu/p2/code/Data_delay_ALU.v|
+!i113 0
+R3
+n@data_delay_@a@l@u
+vData_delay_B
+R4
+!i10b 1
+!s100 MUQhm0VS<<:WS9Uj<[O^50
+I]kEaZXIVjgg;84kUlc0T;0
+R0
+R1
+w1655900301
+8D:/cpu/MultiCycle_cpu/p2/code/Data_delay_B.v
+FD:/cpu/MultiCycle_cpu/p2/code/Data_delay_B.v
+L0 2
+R2
+r1
+!s85 0
+31
+!s108 1655910897.349000
+!s107 D:/cpu/MultiCycle_cpu/p2/code/Data_delay_B.v|
+!s90 -reportprogress|300|-work|work_p2|-vopt|-stats=none|D:/cpu/MultiCycle_cpu/p2/code/Data_delay_B.v|
+!i113 0
+R3
+n@data_delay_@b
+vData_delay_DM
+R4
+!i10b 1
+!s100 <Mb4WFd>_B=j4UzeDXEH20
+Imee@=4LBib1E?T@BE>i6b3
+R0
+R1
+w1655903486
+8D:/cpu/MultiCycle_cpu/p2/code/Data_delay_DM.v
+FD:/cpu/MultiCycle_cpu/p2/code/Data_delay_DM.v
+L0 2
+R2
+r1
+!s85 0
+31
+!s108 1655910897.444000
+!s107 D:/cpu/MultiCycle_cpu/p2/code/Data_delay_DM.v|
+!s90 -reportprogress|300|-work|work_p2|-vopt|-stats=none|D:/cpu/MultiCycle_cpu/p2/code/Data_delay_DM.v|
+!i113 0
+R3
+n@data_delay_@d@m
+vdm
+R0
+r1
+!s85 0
+31
+!i10b 1
+!s100 kjLUV191j]IC5kz4?BmhC1
+I?z37LWzgObP?L0ZD25bUz2
+R1
+w1655909743
+8D:/cpu/MultiCycle_cpu/p2/code/dm.v
+FD:/cpu/MultiCycle_cpu/p2/code/dm.v
+L0 1
+R2
+!s108 1656151116.133000
+!s107 D:/cpu/MultiCycle_cpu/p2/code/dm.v|
+!s90 -reportprogress|300|-work|work_p2|-vopt|-stats=none|D:/cpu/MultiCycle_cpu/p2/code/dm.v|
+!i113 0
+R3
+vExtender
+R0
+r1
+!s85 0
+31
+!i10b 1
+!s100 ?7h1=6bTG691CUJQQz[an0
+IggcO;c9LzEH4MeCZaV1063
+R1
+w1655819890
+8D:/cpu/MultiCycle_cpu/p2/code/Extender.v
+FD:/cpu/MultiCycle_cpu/p2/code/Extender.v
+L0 1
+R2
+!s108 1656151116.232000
+!s107 D:/cpu/MultiCycle_cpu/p2/code/Extender.v|
+!s90 -reportprogress|300|-work|work_p2|-vopt|-stats=none|D:/cpu/MultiCycle_cpu/p2/code/Extender.v|
+!i113 0
+R3
+n@extender
+vim
+R0
+r1
+!s85 0
+31
+!i10b 1
+!s100 Rf]QB@3gGQg:]9`N:V>1f3
+IUQh>R>idW:a48BDLXo9121
+R1
+w1655885922
+8D:/cpu/MultiCycle_cpu/p2/code/im.v
+FD:/cpu/MultiCycle_cpu/p2/code/im.v
+L0 1
+R2
+!s108 1656151116.327000
+!s107 D:/cpu/MultiCycle_cpu/p2/code/im.v|
+!s90 -reportprogress|300|-work|work_p2|-vopt|-stats=none|D:/cpu/MultiCycle_cpu/p2/code/im.v|
+!i113 0
+R3
+vIR
+R0
+r1
+!s85 0
+31
+!i10b 1
+!s100 @PlP6aZ?6`fc>Se:_N[GS3
+IQN<3]U0JDCinSQcTz72fb2
+R1
+w1655901561
+8D:/cpu/MultiCycle_cpu/p2/code/IR.v
+FD:/cpu/MultiCycle_cpu/p2/code/IR.v
+L0 1
+R2
+!s108 1656151116.423000
+!s107 D:/cpu/MultiCycle_cpu/p2/code/IR.v|
+!s90 -reportprogress|300|-work|work_p2|-vopt|-stats=none|D:/cpu/MultiCycle_cpu/p2/code/IR.v|
+!i113 0
+R3
+n@i@r
+vmips
+R0
+r1
+!s85 0
+31
+!i10b 1
+!s100 8?>bkV<EBFjjahBfV8OD<1
+I4?42>eLB[Okj;YJ8iJbH>3
+R1
+w1656151098
+8D:/cpu/MultiCycle_cpu/p2/code/mips.v
+FD:/cpu/MultiCycle_cpu/p2/code/mips.v
+L0 1
+R2
+!s108 1656151116.519000
+!s107 D:/cpu/MultiCycle_cpu/p2/code/mips.v|
+!s90 -reportprogress|300|-work|work_p2|-vopt|-stats=none|D:/cpu/MultiCycle_cpu/p2/code/mips.v|
+!i113 0
+R3
+vnPc
+R0
+r1
+!s85 0
+31
+!i10b 1
+!s100 nWYISi_PzUJ6WB<P_>Y=n2
+I]fTo9li`0fRXX]iTOL_:N3
+R1
+w1656145301
+8D:/cpu/MultiCycle_cpu/p2/code/nPc.v
+FD:/cpu/MultiCycle_cpu/p2/code/nPc.v
+L0 1
+R2
+!s108 1656151116.621000
+!s107 D:/cpu/MultiCycle_cpu/p2/code/nPc.v|
+!s90 -reportprogress|300|-work|work_p2|-vopt|-stats=none|D:/cpu/MultiCycle_cpu/p2/code/nPc.v|
+!i113 0
+R3
+nn@pc
+vPc
+R0
+r1
+!s85 0
+31
+!i10b 1
+!s100 ^0M@]V6n4dJoQRbHlU;6J0
+IWC<]DMRXgnlSbJ;^;j7jA2
+R1
+w1655895853
+8D:/cpu/MultiCycle_cpu/p2/code/Pc.v
+FD:/cpu/MultiCycle_cpu/p2/code/Pc.v
+L0 1
+R2
+!s108 1656151116.718000
+!s107 D:/cpu/MultiCycle_cpu/p2/code/Pc.v|
+!s90 -reportprogress|300|-work|work_p2|-vopt|-stats=none|D:/cpu/MultiCycle_cpu/p2/code/Pc.v|
+!i113 0
+R3
+n@pc
+vRegFile
+R0
+r1
+!s85 0
+31
+!i10b 1
+!s100 <KWdMY2c5JFQgNV>neRja3
+I1i8@5Xb]d9V;odOI<k_0@0
+R1
+w1656150939
+8D:/cpu/MultiCycle_cpu/p2/code/RegFile.v
+FD:/cpu/MultiCycle_cpu/p2/code/RegFile.v
+L0 1
+R2
+!s108 1656151116.815000
+!s107 D:/cpu/MultiCycle_cpu/p2/code/RegFile.v|
+!s90 -reportprogress|300|-work|work_p2|-vopt|-stats=none|D:/cpu/MultiCycle_cpu/p2/code/RegFile.v|
+!i113 0
+R3
+n@reg@file
+vsb
+R0
+r1
+!s85 0
+31
+!i10b 1
+!s100 HR8NQYW5:A8aD;baKjGWF1
+Ibl<^4CE7XlTd=n;Bj`lKb0
+R1
+w1655989027
+8D:/cpu/MultiCycle_cpu/p2/code/sb.v
+FD:/cpu/MultiCycle_cpu/p2/code/sb.v
+L0 1
+R2
+!s108 1656151117.004000
+!s107 D:/cpu/MultiCycle_cpu/p2/code/sb.v|
+!s90 -reportprogress|300|-work|work_p2|-vopt|-stats=none|D:/cpu/MultiCycle_cpu/p2/code/sb.v|
+!i113 0
+R3
+vtb_MulCycle_cpu
+R0
+r1
+!s85 0
+31
+!i10b 1
+!s100 QikVR?fTMMOV5SzBP?bTV1
+IF<n<1aADX1YXAIO5?YHYg1
+R1
+w1656143875
+8D:/cpu/MultiCycle_cpu/p2/code/top_sim.v
+FD:/cpu/MultiCycle_cpu/p2/code/top_sim.v
+L0 3
+R2
+!s108 1656151116.908000
+!s107 D:/cpu/MultiCycle_cpu/p2/code/top_sim.v|
+!s90 -reportprogress|300|-work|work_p2|-vopt|-stats=none|D:/cpu/MultiCycle_cpu/p2/code/top_sim.v|
+!i113 0
+R3
+ntb_@mul@cycle_cpu
+vTemp_Reg_A
+R0
+r1
+!s85 0
+31
+!i10b 1
+!s100 ?`c0m4^0kB5fTIUCc1Oge2
+IKISQIg`Uce@j4HknSS1e=3
+R1
+w1655989339
+8D:/cpu/MultiCycle_cpu/p2/code/Temp_Reg_A.v
+FD:/cpu/MultiCycle_cpu/p2/code/Temp_Reg_A.v
+L0 2
+R2
+!s108 1656151117.195000
+!s107 D:/cpu/MultiCycle_cpu/p2/code/Temp_Reg_A.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/cpu/MultiCycle_cpu/p2/code/Temp_Reg_A.v|
+!i113 0
+Z5 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+n@temp_@reg_@a
+vTemp_Reg_ALU
+R0
+r1
+!s85 0
+31
+!i10b 1
+!s100 BMml_O01YDIMnMMKe:R530
+Ia`a`IOGP[ZD<hkCdWh0403
+R1
+w1655989379
+8D:/cpu/MultiCycle_cpu/p2/code/Temp_Reg_ALU.v
+FD:/cpu/MultiCycle_cpu/p2/code/Temp_Reg_ALU.v
+L0 2
+R2
+!s108 1656151117.290000
+!s107 D:/cpu/MultiCycle_cpu/p2/code/Temp_Reg_ALU.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/cpu/MultiCycle_cpu/p2/code/Temp_Reg_ALU.v|
+!i113 0
+R5
+n@temp_@reg_@a@l@u
+vTemp_Reg_B
+R0
+r1
+!s85 0
+31
+!i10b 1
+!s100 ??blCaIS2_9I8HN`18I5z0
+IW6>NbYOd3ZClQDCiQg8982
+R1
+w1655989355
+8D:/cpu/MultiCycle_cpu/p2/code/Temp_Reg_B.v
+FD:/cpu/MultiCycle_cpu/p2/code/Temp_Reg_B.v
+L0 2
+R2
+!s108 1656151117.387000
+!s107 D:/cpu/MultiCycle_cpu/p2/code/Temp_Reg_B.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/cpu/MultiCycle_cpu/p2/code/Temp_Reg_B.v|
+!i113 0
+R5
+n@temp_@reg_@b
+vTemp_Reg_DM
+R0
+r1
+!s85 0
+31
+!i10b 1
+!s100 hG<H23Xn;``QQ9iG0W`S]2
+IK`>DO4j82c@22Z2PzQGb13
+R1
+w1655989374
+8D:/cpu/MultiCycle_cpu/p2/code/Temp_Reg_DM.v
+FD:/cpu/MultiCycle_cpu/p2/code/Temp_Reg_DM.v
+L0 2
+R2
+!s108 1656151117.101000
+!s107 D:/cpu/MultiCycle_cpu/p2/code/Temp_Reg_DM.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/cpu/MultiCycle_cpu/p2/code/Temp_Reg_DM.v|
+!i113 0
+R5
+n@temp_@reg_@d@m

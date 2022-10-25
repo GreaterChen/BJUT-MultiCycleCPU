@@ -1,0 +1,6 @@
+D:/Microsoft VS Code/Code.exe [file name] -[line number] 
+
+
+proc external_editor {filename linenumber} { exec "D:\\Microsoft VS Code\\Code.exe" -g $filename:$linenumber}
+set PrefSource(altEditor) external_editor
+unset PrefSource(altEditor)

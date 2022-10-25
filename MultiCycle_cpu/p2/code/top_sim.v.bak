@@ -1,0 +1,34 @@
+`timescale  1ns / 1ps
+
+module tb_MulCycle_cpu;
+
+// SingleCycle_cpu_top Parameters
+parameter PERIOD  = 10;
+
+
+// SingleCycle_cpu_top Inputs
+reg   clk                                  = 0 ;
+reg   rst                                  = 0 ;
+
+// SingleCycle_cpu_top Outputs
+
+initial
+begin
+    forever #(PERIOD/2)  clk=~clk;
+end
+
+mips  cpu (
+    .clk                     ( clk     ),
+    .rst                     ( rst     )
+);
+
+initial
+begin
+   // $readmemh("D:/cpu/SingleCycle_cpu/data/test_code/p1-test.txt",cpu.u_im.im);
+    $readmemh("D:/cpu/MultiCycle_cpu/p2/data/data_overflow/data_overflow.txt",cpu.u_im.im);
+    clk=1;
+    rst=1;
+    #1 rst=0;
+end
+
+endmodule
